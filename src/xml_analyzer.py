@@ -102,8 +102,4 @@ def run():
     return path
 
 
-print(f"button: {run()}")
-
-#sys.argv[1], sys.argv[2]
-#'/home/lyudmyla/work/test/xml_analyzer/startbootstrap-sb-admin-2-examples/sample-0-origin.html'
-#'/home/lyudmyla/work/test/xml_analyzer/startbootstrap-sb-admin-2-examples/sample-3-the-escape.html'
+run()
